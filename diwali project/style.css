@@ -1,0 +1,586 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.navbar{
+    height: 60px;
+    width: 100%;
+    background-color: white ;
+}
+.back img{
+    height: 600px;
+    width: 100%;
+}
+.logo img{
+    height: 25px;
+    width: 130px;
+    position: absolute;
+    top: 20px;
+    left: 8%;
+}
+.content{
+    position: absolute;
+    top: 3.5%;
+    left: 20%;
+}
+.user{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top:3.5%;
+    left: 82%;
+}
+.loc{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top:3.5%;
+    left: 85%;
+}
+.share{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top:3.5%;
+    left: 88%;
+}
+.search{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top:3.5%;
+    left: 91%;
+}
+.image img{
+    height: 73vh;
+    width: 90%;
+    position: absolute;
+    top: 18%;
+    left: 6%;
+}
+.head{
+    height: 40px;
+    width: 390px;
+    font-size: 40px;
+    position: absolute;
+    left: 38%;
+    top: 110%;
+}
+.lines{
+    position: absolute;
+    top: 126%;
+    left: 34%;
+}
+.blue{
+    height: 3px;
+    width: 45px;
+    background-color: #00AAD2;
+    position: absolute;
+    top: 130%;
+    left: 33%;
+}
+.car{
+    height: 60vh;
+    width: 60%;
+    position: absolute;
+    top: 138%;
+    left: 10%;
+}
+.smokebar{
+    height: 120px;
+    width: 100%;
+    background-color: #F6F3F2;
+    position: absolute;
+    top: 220%;
+
+}
+.bluebar{
+    height: 100px;
+    width: 100%;
+    background-color:#002C5F;
+    position: absolute;
+    top: 239%;
+}
+.blackbar1{
+    height: 40px;
+    width: 18%;
+    background-color: #767676;
+    position: absolute;
+    top: 35%;
+    left: 8%;    
+}
+.blackbar2{
+    height: 40px;
+    width: 18%;
+    background-color: #767676;
+    position: absolute;
+    top: 35%;
+    left: 30%;    
+}
+.blackbar3{
+    height: 40px;
+    width: 18%;
+    background-color: #767676;
+    position: absolute;
+    top: 35%;
+    left: 53%;    
+}
+.blackbar4{
+    height: 40px;
+    width: 18%;
+    background-color: #767676;
+    position: absolute;
+    top: 35%;
+    left: 75%;    
+}
+.blackbar1 p{
+    position: absolute;
+    top: 21%;
+    left: 15%;
+    color: white;
+}
+.blackbar2 p{
+    position: absolute;
+    top: 21%;
+    left: 15%;
+    color: white;
+}
+.blackbar3 p{
+    position: absolute;
+    top: 21%;
+    left: 30%;
+    color: white;
+}
+.blackbar4 p{
+    position: absolute;
+    top: 21%;
+    left: 40%;
+    color: white;
+}
+.word1 span{
+    position: absolute;
+    top: 25%;
+    left: 15%;
+    font-size: 20px;
+    color: white;
+}
+.word2 span{
+    position: absolute;
+    top: 50%;
+    left: 15%;
+    font-size: 30px;
+    color: white;
+}
+.three{
+    position: absolute;
+    top: 260%;
+    left: 8%;
+}
+.on1{
+    height: 30px;
+    width: 40px;
+    color: #002C5F;
+    position: absolute;
+    top: 326%;
+    left: 10% ;
+}
+.on2 {
+    height: 30px;
+    width: 40px;
+    color: #002C5F;
+    position: absolute;
+    top: 326%;
+    left: 38%
+}
+.on3 {
+    height: 30px;
+    width: 40px;
+    color: #002C5F;
+    position: absolute;
+    top: 326%;
+    left: 67%
+}
+.content1 span{
+    position: absolute;
+    top: 330%;
+    left: 10%;
+    font-size: 20px;
+}
+.content2 span{
+    position: absolute;
+    top: 330%;
+    left: 38%;
+    font-size: 20px;
+}
+.content3 span{
+    position: absolute;
+    top: 330%;
+    left: 67%;
+    font-size: 20px;
+}
+.sky img{
+    height: 90vh;
+    width:100%;
+    position: absolute;
+    top: 350%;
+    left: 0%;
+}
+.dark{
+    height: 43PX;
+    width: 20%;
+    position: absolute;
+    top:445%;
+    left: 38%; 
+    background-color: #002C5F;
+
+}
+.dark span{
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    color: white;
+    font-size: 20px;
+}
+.big{
+    height: 110px;
+    width: 100%;
+    position: absolute;
+    top:465%;
+    left: 0%; 
+    background-color: #002C5F;
+}
+.font1 span {
+    position: absolute;
+    top: 15%;
+    left: 12%;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+.font2 span {
+    position: absolute;
+    top: 40%;
+    left: 11%;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+}
+.pic img{
+    height:60vh ;
+    width:80%;
+    position: absolute;
+    top: 500%;
+    left: 10%;
+}
+.pic1 img{
+    height:60vh ;
+    width:80%;
+    position: absolute;
+    top: 550%;
+    left: 10%;
+}
+.secbanner img{
+    height: 600px;
+    width: 100%;
+    position: absolute;
+    top: 610%;
+    left: 0%;
+}
+.news{
+    height: 80px;
+    width:20%;
+    position: absolute;
+    top: 620%;
+    left: 48%;
+    color: rgb(0, 0, 0);
+}
+.inner{
+    height: 450px;
+    width:90%;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 630%;
+    left: 5.9%;
+}
+.arrow1 img{
+    height: 20px;
+    width: 2%;
+    position: absolute;
+    top: 665%;
+    left: 90%;
+}
+.arrow2 img{
+    height: 20px;
+    width: 2%;
+    position: absolute;
+    top: 665%;
+    left: 10%;
+}
+.india{
+    height: 40px;
+    width: 200px;
+    color: gray;
+    position: absolute;
+    top: 640%;
+    left: 43%;
+}
+.para{
+    position: absolute;
+    top: 650%;
+    left: 27%;
+}
+.draklearn{
+    height: 40px;
+    width: 15%;
+    background-color: #002C5F;
+    position: absolute;
+    top: 670%;
+    left: 40.5%;
+}
+.draklearn p{
+    color: white;
+    position: absolute;
+    top: 25%;
+    left: 30%;
+}
+.cir1{
+    height: 15px;
+    width: 15px;
+    background-color: #00AAD2 ;
+    position: absolute;
+    top: 686%;
+    left: 44%;
+    border: 100px;
+    border-radius: 100PX;
+
+}
+.cir2{
+    height: 15px;
+    width: 15px;
+   
+    position: absolute;
+    top: 686%;
+    left: 46%;
+    border:gray 1px solid ;
+    border-radius: 100PX;
+
+}
+.cir3{
+    height: 15px;
+    width: 15px;
+   
+    position: absolute;
+    top: 686%;
+    left: 48%;
+    border: gray 1px solid ;
+    border-radius: 100PX;
+
+}
+.cir4{
+    height: 15px;
+    width: 15px;
+   
+    position: absolute;
+    top: 686%;
+    left: 50%;
+    border: gray 1px solid ;
+    border-radius: 100PX;
+
+}
+.cir5{
+    height: 15px;
+    width: 15px;
+   
+    position: absolute;
+    top: 686%;
+    left: 52%;
+    border:gray 1px solid ;
+    border-radius: 100PX;
+}
+
+.whitee{
+    height: 50vh;
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 703.5%;
+}
+.heding h1{
+    width: 560px;
+    color: black;
+    position: absolute;
+    top: 25%;
+    left: 65%;
+    font-size: 50px;
+
+}
+.downside b{
+    width: 560px;
+    color: black;
+    position: absolute;
+    top: 50%;
+    left:72%;
+    font-size: 20px;
+}
+.select{
+    height: 15px;
+    width: 500px;
+    color: black;
+    position: absolute;
+    top: 90%;
+    left: 20%;
+    font-family: 'Arial Narrow Bold', ;
+}
+.options{
+    position: absolute;
+    top: 755%;
+    left: 10%;
+}
+.vertical select{
+    height: 40px;
+    width: 160px;
+    position: absolute;
+    top: 755%;
+    left: 35%;    
+    border: 1px solid gray;
+}
+.vertical3 select{
+    height: 40px;
+    width: 300px;
+    position: absolute;
+    left:50%;
+    bottom: 45%;
+}
+
+
+.vertical2 select{
+    height: 40px;
+    width: 100px;
+    position: absolute;
+    left:80%;
+    bottom: 45%;
+}
+.find{
+    height: 40px;
+    width: 150px;
+    background-color: #002C5F;
+    position: absolute;
+    top: 775%;
+    left: 45%;
+
+}
+.find p {
+    color: white;
+    position: absolute;
+    top: 20%;
+    left: 38%;
+    font-size: 20px;
+}
+.map img{
+    height: 700px;
+    width:800px;
+    position: absolute;
+    top: 790%;
+    left: 20.5%;
+}
+
+
+
+
+
+.atlast{
+    height: 90vh;
+    width: 100%;
+    background-color:black;
+    position: absolute;
+    top: 900%;
+}
+.logo img{
+    height: 30px;
+    width: 60px;
+    position: absolute;
+    top: 910%;
+    left: 10%;
+}
+.first1 b{
+    position: absolute;
+    top: 912%;
+    left: 25%;
+    color: white;
+}
+.first2 p{
+    position: absolute;
+    top: 920%;
+    left: 25%;
+    color: rgb(160, 160, 160);
+    font-size: 12px;
+}
+.copy p{
+    position: absolute;
+    top: 985%;
+    left: 25%;
+    color: gray;
+    font-size: 15px;
+}
+.first3 p{
+    position: absolute;
+    top: 920%;
+    left: 35%;
+    color: rgb(160, 160, 160);
+    font-size: 12px;
+}
+.first4 p{
+    position: absolute;
+    top: 920%;
+    left: 45%;
+    color: rgb(160, 160, 160);
+    font-size: 12px;
+}
+.first5 p{
+    position: absolute;
+    top: 920%;
+    left: 58%;
+    color: rgb(160, 160, 160);
+    font-size: 12px;
+}
+.first5 p{
+    position: absolute;
+    top: 920%;
+    left: 58%;
+    color: rgb(160, 160, 160);
+    font-size: 12px;
+}
+.investor b{
+    position: absolute;
+    top: 955%;
+    left: 58%;
+    color:white;
+    font-size: 15px;
+}
+.first6 p{
+    position: absolute;
+    top: 920%;
+    left: 68%;
+    color: rgb(160, 160, 160);
+    font-size: 12px;
+}
+.end{
+    height: 80px;
+    width: 100%;
+    background-color: #002C5F;
+    position: absolute;
+    top: 980%;
+    
+}
+.end h5{
+    position: absolute;
+    top: 40%;
+    left: 15%;
+    color: white;
+    font-size: 20px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.end h5 :hover{
+    text-decoration: underline;
+}
+
